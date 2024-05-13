@@ -30,9 +30,9 @@ showOnlyFeaturedPost = true
 filterCoverImages = true
 
 [params.meta]
-title = "Salinger Theme for Hugo built with TailwindCSS and DaisyUI"
-description = "Salinger is a clean, minimalistic, mobile-first, blazing-fast, fancy and lightweight theme for the Hugo framework built with TailwindCSS and DaisyUI"
-keywords = ["simple", "minimal", "clean", "fast", "blog", "portfolio", "responsive", "twemoji", "recursion", "section", "tailwind", "daisyui"]
+title = "Favian's Blog"
+description = "I mostly write things I'm passionate about; mainly anything web dev, tech and personal development. Most of my writings revolve around my thoughts so this blog would tend towards my personal opinions."
+keywords = ["personal", "blog", "tech", "webdev"]
 
 [params.footer]
 copy = 'Favian CA. <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" class="link">Some rights reserved.</a>'
