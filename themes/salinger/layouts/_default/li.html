@@ -15,7 +15,7 @@
       {{$myFormat = .}} {{end}} {{ $d := (cond (ne (.Params.lastmod) nil) .Params.lastmod .Date)  }} {{ dateFormat $myFormat $d}}
     </div>
 
-    <div class="font-mono block uppercase">
+    <div class="font-mono block">
       <a href="{{.Permalink}}"
         >{{with .Params.Description}} {{.}} {{else}} {{.Title}} {{end}}</a
       >
